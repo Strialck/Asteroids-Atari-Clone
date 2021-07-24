@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 247ab69d9570fbc46b582abfdd66cf63, type: 3}
+  m_Name: MediumAsteroid
+  m_EditorClassIdentifier: 
+  asteroidType: 1
+  minSpeed: 3
+  maxSpeed: 5
+  points: 50
+  ExplosionSound: {fileID: 8300000, guid: 4d39ad91ce7e09d41b47c2e51924d3d2, type: 3}
+  Prefab: {fileID: 1949992538976548378, guid: 526be0e7b0ff51544a8bb31e8c847a93, type: 3}
+  Splitable: 1
